@@ -241,7 +241,7 @@ Jadi function `incomeStatement` akan menerima dua parameter yang diberikan oleh 
 - Parameter `rawIngredients` bertipe data **array 2 dimensi** yang akan berisi daftar belanjaan bahan dasar menu harian Mbah Marno.
 - Parameter `orders` bertipe data **array of object** yang setiap elementnya merupakan representasi histori pesanan pelanggan.
 
-Jangan lupa untuk menggunakan semua function-function yang sudah kamu
+**Jangan lupa untuk menggunakan semua function-function yang sudah kamu
 buat sebelumnya di dalam function ini. 😎**
 
 Output dari function ini bertipe data  **array of object**. Perhatikan contoh berikut:
